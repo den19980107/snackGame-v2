@@ -1,0 +1,16 @@
+{
+    "name": "qwer",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "version": "1.0.0",
+    "main": "server.js",
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "express": "^4.15.2",
+        "request": "^2.88.0",
+        "socket.io": "^2.1.1"
+    }
+}
