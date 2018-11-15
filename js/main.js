@@ -4,6 +4,7 @@ let food;
 let w;
 let h;
 
+
 function setup() {
     createCanvas(400, 400);
     snake = new Snake();
